@@ -1,5 +1,9 @@
 # traffic_sign_car
 
+
+
+<video src="/videos/running_video.mp4"></video>
+
 ## 方案概述  
 在本文中详细的描述了我们团队在第二十五届机器人及人工智能大赛中的
 城市道路识别赛道的深度学习智能车设计方案。
